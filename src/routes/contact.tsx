@@ -43,7 +43,6 @@ function ContactPage() {
           <p className="mt-5 text-muted-foreground">{t("contact.subtitle")}</p>
 
           <div className="mt-10 space-y-5">
-            <ContactRow icon={User} label="Gerardo Tamez Sierra" />
             <ContactRow icon={Mail} label="gtamez@gercom.com.mx" href="mailto:gtamez@gercom.com.mx" />
             <ContactRow icon={Phone} label="+52 (81) 2000 1930" href="tel:+528120001930" />
           </div>
