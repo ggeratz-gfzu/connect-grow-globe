@@ -24,7 +24,7 @@ const dictionaries: Record<Lang, Dict> = {
 
     "about.eyebrow": "Quiénes somos",
     "about.title": "El puente estratégico entre tu producto y los mercados globales.",
-    "about.p1": "GFZ-U-Connect S.C. es una firma especializada en desarrollo de negocios internacionales y ejecución comercial. Acompañamos a empresas medianas que buscan expandir su alcance hacia nuevos mercados y canales de venta.",
+    "about.p1": "GFZ-U-Connect S.C. es una firma especializada en desarrollo de negocios internacionales y ejecución comercial. Acompañamos a empresas que buscan expandir su alcance hacia nuevos mercados y canales de venta.",
     "about.p2": "Diseñamos estrategias de entrada a mercado, desarrollamos ecosistemas de distribución de alto impacto y aceleramos la expansión de productos a través de distintos continentes.",
     "about.b1": "Estrategia con visión global",
     "about.b2": "Ejecución comercial comprobada",
@@ -88,7 +88,7 @@ const dictionaries: Record<Lang, Dict> = {
 
     "about.eyebrow": "Who we are",
     "about.title": "The strategic bridge between your product and global markets.",
-    "about.p1": "GFZ-U-Connect S.C. is a firm specialized in international business development and commercial execution. We support mid-sized companies seeking to expand into new markets and sales channels.",
+    "about.p1": "GFZ-U-Connect S.C. is a firm specialized in international business development and commercial execution. We support companies seeking to expand into new markets and sales channels.",
     "about.p2": "We design market entry strategies, build high-impact distribution ecosystems and accelerate product expansion across continents.",
     "about.b1": "Strategy with a global vision",
     "about.b2": "Proven commercial execution",
@@ -152,7 +152,7 @@ const dictionaries: Record<Lang, Dict> = {
 
     "about.eyebrow": "Quem somos",
     "about.title": "A ponte estratégica entre o seu produto e os mercados globais.",
-    "about.p1": "A GFZ-U-Connect S.C. é uma empresa especializada em desenvolvimento de negócios internacionais e execução comercial. Apoiamos empresas de médio porte que buscam expandir seu alcance para novos mercados e canais de venda.",
+    "about.p1": "A GFZ-U-Connect S.C. é uma empresa especializada em desenvolvimento de negócios internacionais e execução comercial. Apoiamos empresas que buscam expandir seu alcance para novos mercados e canais de venda.",
     "about.p2": "Desenhamos estratégias de entrada de mercado, construímos ecossistemas de distribuição de alto impacto e aceleramos a expansão de produtos por diversos continentes.",
     "about.b1": "Estratégia com visão global",
     "about.b2": "Execução comercial comprovada",
