@@ -1,7 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import { useState } from "react";
 import { Menu, X, Globe } from "lucide-react";
-import logo from "@/assets/logo-gfz.png";
+import logo from "@/assets/logo-gfz.svg";
 import { useI18n, type Lang } from "@/i18n";
 import { Button } from "@/components/ui/button";
 
