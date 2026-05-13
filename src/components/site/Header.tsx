@@ -21,7 +21,7 @@ export function Header() {
     <header className="sticky top-0 z-50 w-full border-b border-border/50 bg-background/85 backdrop-blur-xl">
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6">
         <Link to="/" className="flex items-center gap-3">
-          <img src={logo} alt="GFZ-U-Connect" className="h-11 w-auto" width={120} height={44} />
+          <img src={logo} alt="GFZ-U-Connect" className="h-16 w-auto" width={180} height={66} />
         </Link>
 
         <nav className="hidden items-center gap-8 lg:flex">
