@@ -11,7 +11,7 @@ export function Footer() {
     <footer className="border-t border-border bg-[var(--brand-navy-deep)] text-white/85">
       <div className="mx-auto grid max-w-7xl gap-10 px-6 py-16 md:grid-cols-4">
         <div className="md:col-span-2">
-          <img src={logo} alt="GFZ-U-Connect" className="h-12 w-auto bg-white rounded-md p-2" width={140} height={48} />
+          <img src={logo} alt="GFZ-U-Connect" className="h-12 w-auto" width={140} height={48} />
           <p className="mt-5 max-w-md text-sm leading-relaxed text-white/65">
             {t("footer.tagline")}
           </p>
