@@ -8,7 +8,7 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "GFZ-U-Connect | Convertimos productos en negocios globales" },
-      { name: "description", content: "Firma de desarrollo de negocios internacionales con +20 años de ejecución comercial en México y mercados globales." },
+      { name: "description", content: "Firma de desarrollo de negocios internacionales con +20 años de trayectoria comercial en México y mercados globales." },
       { property: "og:title", content: "GFZ-U-Connect | International Business Development" },
       { property: "og:description", content: "We turn products into global businesses." },
     ],

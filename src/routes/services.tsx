@@ -6,7 +6,7 @@ export const Route = createFileRoute("/services")({
   head: () => ({
     meta: [
       { title: "Servicios | GFZ-U-Connect" },
-      { name: "description", content: "Estrategia de entrada a mercado, distribución, alianzas internacionales y ejecución comercial." },
+      { name: "description", content: "Estrategia de entrada a mercado, distribución, alianzas internacionales y trayectoria comercial." },
       { property: "og:title", content: "Services | GFZ-U-Connect" },
       { property: "og:description", content: "End-to-end international expansion services." },
     ],

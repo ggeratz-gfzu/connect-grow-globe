@@ -6,7 +6,7 @@ export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
       { title: "Nosotros | GFZ-U-Connect" },
-      { name: "description", content: "Firma especializada en desarrollo de negocios internacionales y ejecución comercial." },
+      { name: "description", content: "Firma especializada en desarrollo de negocios internacionales y trayectoria comercial." },
       { property: "og:title", content: "About | GFZ-U-Connect" },
       { property: "og:description", content: "Strategic bridge between companies and global markets." },
     ],
