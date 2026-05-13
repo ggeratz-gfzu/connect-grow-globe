@@ -26,7 +26,7 @@ export const Route = createRootRoute({
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { title: "GFZ-U-Connect | Convertimos productos en negocios globales" },
-      { name: "description", content: "Desarrollo de negocios internacionales y ejecución comercial. +20 años escalando productos hacia mercados globales." },
+      { name: "description", content: "Desarrollo de negocios internacionales y trayectoria comercial. +20 años escalando productos hacia mercados globales." },
       { name: "author", content: "GFZ-U-Connect S.C." },
       { property: "og:title", content: "GFZ-U-Connect | International Business Development" },
       { property: "og:description", content: "We turn products into global businesses." },
