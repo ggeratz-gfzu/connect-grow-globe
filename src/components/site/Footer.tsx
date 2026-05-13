@@ -1,6 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { Mail, Phone } from "lucide-react";
-import logo from "@/assets/logo-gfz.svg";
+import logo from "@/assets/logo-gfz.png";
 import { useI18n } from "@/i18n";
 
 export function Footer() {
