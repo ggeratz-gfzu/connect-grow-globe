@@ -20,7 +20,7 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.cta2": "Conoce nuestros servicios",
     "hero.stat1": "+20 años", "hero.stat1d": "de trayectoria comercial",
     "hero.stat2": "4 continentes", "hero.stat2d": "con presencia activa",
-    "hero.stat3": "10+ países", "hero.stat3d": "en operación comprobada",
+    "hero.stat3": "10+ países", "hero.stat3d": "con operaciones comerciales comprobadas",
 
     "about.eyebrow": "Quiénes somos",
     "about.title": "El puente estratégico entre tu producto y los mercados globales.",
