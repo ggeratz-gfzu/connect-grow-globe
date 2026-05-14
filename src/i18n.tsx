@@ -19,7 +19,7 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.cta1": "Agenda una consultoría",
     "hero.cta2": "Conoce nuestros servicios",
     "hero.stat1": "+20 años", "hero.stat1d": "de trayectoria comercial",
-    "hero.stat2": "4 continentes", "hero.stat2d": "con presencia activa",
+    "hero.stat2": "4 continentes", "hero.stat2d": "con negocios concretados",
     "hero.stat3": "10+ países", "hero.stat3d": "con operaciones comerciales comprobadas",
 
     "about.eyebrow": "Quiénes somos",
