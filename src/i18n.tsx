@@ -14,7 +14,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Solicitar información",
 
     "hero.eyebrow": "Desarrollo de Negocios Internacionales",
-    "hero.title": "Convertimos productos en negocios internacionales.",
+    "hero.title": "Tu brazo comercial para convertir tus productos en negocios internacionales.",
     "hero.subtitle": "Más de 20 años de experiencia y trayectoria comercial comprobada en México y mercados internacionales. Diseñamos estrategias de entrada, ecosistemas de distribución y escalamos productos hacia mercados de alto crecimiento.",
     "hero.cta1": "Agenda una consultoría",
     "hero.cta2": "Conoce nuestros servicios",
@@ -78,7 +78,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Request information",
 
     "hero.eyebrow": "International Business Development",
-    "hero.title": "We turn products into international businesses.",
+    "hero.title": "Your commercial arm to turn your products into international businesses.",
     "hero.subtitle": "Over 20 years of proven commercial experience and track record in Mexico and international markets. We architect market entry strategies, build high-impact distribution ecosystems, and scale products into high-growth markets.",
     "hero.cta1": "Book a consultation",
     "hero.cta2": "Explore our services",
@@ -142,7 +142,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Solicitar informações",
 
     "hero.eyebrow": "Desenvolvimento de Negócios Internacionais",
-    "hero.title": "Transformamos produtos em negócios internacionais.",
+    "hero.title": "Seu braço comercial para transformar seus produtos em negócios internacionais.",
     "hero.subtitle": "Mais de 20 anos de experiência e trajetória comercial comprovada no México e em mercados internacionais. Desenhamos estratégias de entrada, ecossistemas de distribuição e escalamos produtos em mercados de alto crescimento.",
     "hero.cta1": "Agendar consultoria",
     "hero.cta2": "Conhecer nossos serviços",
