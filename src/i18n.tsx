@@ -14,7 +14,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Solicitar información",
 
     "hero.eyebrow": "Desarrollo de Negocios Internacionales",
-    "hero.title": "Convertimos productos en negocios globales.",
+    "hero.title": "Convertimos productos en negocios internacionales.",
     "hero.subtitle": "Más de 20 años de experiencia y trayectoria comercial comprobada en México y mercados internacionales. Diseñamos estrategias de entrada, ecosistemas de distribución y escalamos productos hacia mercados de alto crecimiento.",
     "hero.cta1": "Agenda una consultoría",
     "hero.cta2": "Conoce nuestros servicios",
@@ -23,10 +23,10 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.stat3": "10+ países", "hero.stat3d": "con operaciones comerciales comprobadas",
 
     "about.eyebrow": "Quiénes somos",
-    "about.title": "El puente estratégico entre tu producto y los mercados globales.",
-    "about.p1": "GFZ-U-Connect S.C. es una firma especializada en desarrollo de negocios internacionales y trayectoria comercial. Acompañamos a empresas que buscan expandir su alcance hacia nuevos mercados y canales de venta.",
-    "about.p2": "Diseñamos estrategias de entrada a mercado, desarrollamos ecosistemas de distribución de alto impacto y aceleramos la expansión de productos a través de distintos continentes.",
-    "about.b1": "Estrategia con visión global",
+    "about.title": "Tu brazo comercial internacional: el puente estratégico entre tu producto y nuevos mercados.",
+    "about.p1": "GFZ-U-Connect S.C. es el brazo comercial internacional de las empresas que quieren crecer. Funcionamos como una extensión de tu equipo de ventas: abrimos mercados, generamos demanda, construimos relaciones con distribuidores y cerramos acuerdos en tu nombre.",
+    "about.p2": "Diseñamos estrategias de entrada a mercado, desarrollamos ecosistemas de distribución de alto impacto y aceleramos la expansión de tus productos a través de distintos continentes — sin que tengas que montar una operación internacional desde cero.",
+    "about.b1": "Estrategia con visión internacional",
     "about.b2": "Ejecución comercial comprobada",
     "about.b3": "Red estratégica internacional",
 
@@ -42,7 +42,7 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Vinculación con embajadas y entidades gubernamentales", "s7.d": "Activamos relaciones estratégicas con autoridades regulatorias y diplomáticas.",
     "s8.t": "Representación en Expos y Cumbres internacionales", "s8.d": "Posicionamos tu marca en los foros más relevantes de la industria.",
 
-    "coverage.eyebrow": "Cobertura global",
+    "coverage.eyebrow": "Cobertura internacional",
     "coverage.title": "Experiencia comercial activa en 4 continentes",
     "coverage.subtitle": "América · África · Asia · Europa",
 
@@ -66,7 +66,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "¡Gracias! Hemos recibido tu mensaje.",
     "contact.direct": "Contacto directo",
 
-    "footer.tagline": "Convertimos productos en negocios globales.",
+    "footer.tagline": "Tu brazo comercial internacional. Convertimos productos en negocios internacionales.",
     "footer.rights": "Todos los derechos reservados.",
   },
   en: {
@@ -78,8 +78,8 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Request information",
 
     "hero.eyebrow": "International Business Development",
-    "hero.title": "We turn products into global businesses.",
-    "hero.subtitle": "Over 20 years of proven commercial experience and track record in Mexico and global markets. We architect market entry strategies, build high-impact distribution ecosystems, and scale products into high-growth markets.",
+    "hero.title": "We turn products into international businesses.",
+    "hero.subtitle": "Over 20 years of proven commercial experience and track record in Mexico and international markets. We architect market entry strategies, build high-impact distribution ecosystems, and scale products into high-growth markets.",
     "hero.cta1": "Book a consultation",
     "hero.cta2": "Explore our services",
     "hero.stat1": "+20 years", "hero.stat1d": "of commercial execution",
@@ -87,10 +87,10 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.stat3": "10+ countries", "hero.stat3d": "of proven operation",
 
     "about.eyebrow": "Who we are",
-    "about.title": "The strategic bridge between your product and global markets.",
-    "about.p1": "GFZ-U-Connect S.C. is a firm specialized in international business development and commercial execution. We support companies seeking to expand into new markets and sales channels.",
-    "about.p2": "We design market entry strategies, build high-impact distribution ecosystems and accelerate product expansion across continents.",
-    "about.b1": "Strategy with a global vision",
+    "about.title": "Your international commercial arm: the strategic bridge between your product and new markets.",
+    "about.p1": "GFZ-U-Connect S.C. is the international commercial arm for companies that want to grow. We work as an extension of your sales team: opening markets, generating demand, building distributor relationships and closing deals on your behalf.",
+    "about.p2": "We design market entry strategies, build high-impact distribution ecosystems and accelerate product expansion across continents — without you having to stand up an international operation from scratch.",
+    "about.b1": "Strategy with an international vision",
     "about.b2": "Proven commercial execution",
     "about.b3": "International strategic network",
 
@@ -106,7 +106,7 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Engagement with embassies & government", "s7.d": "We activate strategic relationships with regulatory and diplomatic authorities.",
     "s8.t": "Representation at Expos & Summits", "s8.d": "We position your brand at the most relevant industry forums.",
 
-    "coverage.eyebrow": "Global coverage",
+    "coverage.eyebrow": "International coverage",
     "coverage.title": "Active commercial experience across 4 continents",
     "coverage.subtitle": "America · Africa · Asia · Europe",
 
@@ -130,7 +130,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "Thank you! We've received your message.",
     "contact.direct": "Direct contact",
 
-    "footer.tagline": "We turn products into global businesses.",
+    "footer.tagline": "Your international commercial arm. We turn products into international businesses.",
     "footer.rights": "All rights reserved.",
   },
   pt: {
@@ -142,7 +142,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Solicitar informações",
 
     "hero.eyebrow": "Desenvolvimento de Negócios Internacionais",
-    "hero.title": "Transformamos produtos em negócios globais.",
+    "hero.title": "Transformamos produtos em negócios internacionais.",
     "hero.subtitle": "Mais de 20 anos de experiência e trajetória comercial comprovada no México e em mercados internacionais. Desenhamos estratégias de entrada, ecossistemas de distribuição e escalamos produtos em mercados de alto crescimento.",
     "hero.cta1": "Agendar consultoria",
     "hero.cta2": "Conhecer nossos serviços",
@@ -151,10 +151,10 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.stat3": "10+ países", "hero.stat3d": "de operação comprovada",
 
     "about.eyebrow": "Quem somos",
-    "about.title": "A ponte estratégica entre o seu produto e os mercados globais.",
-    "about.p1": "A GFZ-U-Connect S.C. é uma empresa especializada em desenvolvimento de negócios internacionais e execução comercial. Apoiamos empresas que buscam expandir seu alcance para novos mercados e canais de venda.",
-    "about.p2": "Desenhamos estratégias de entrada de mercado, construímos ecossistemas de distribuição de alto impacto e aceleramos a expansão de produtos por diversos continentes.",
-    "about.b1": "Estratégia com visão global",
+    "about.title": "Seu braço comercial internacional: a ponte estratégica entre o seu produto e novos mercados.",
+    "about.p1": "A GFZ-U-Connect S.C. é o braço comercial internacional das empresas que querem crescer. Funcionamos como uma extensão da sua equipe de vendas: abrimos mercados, geramos demanda, construímos relações com distribuidores e fechamos acordos em seu nome.",
+    "about.p2": "Desenhamos estratégias de entrada de mercado, construímos ecossistemas de distribuição de alto impacto e aceleramos a expansão dos seus produtos por diversos continentes — sem que você precise montar uma operação internacional do zero.",
+    "about.b1": "Estratégia com visão internacional",
     "about.b2": "Execução comercial comprovada",
     "about.b3": "Rede estratégica internacional",
 
@@ -170,7 +170,7 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Vinculação com embaixadas e órgãos governamentais", "s7.d": "Ativamos relações estratégicas com autoridades regulatórias e diplomáticas.",
     "s8.t": "Representação em Expos e Cúpulas", "s8.d": "Posicionamos sua marca nos fóruns mais relevantes do setor.",
 
-    "coverage.eyebrow": "Cobertura global",
+    "coverage.eyebrow": "Cobertura internacional",
     "coverage.title": "Experiência comercial ativa em 4 continentes",
     "coverage.subtitle": "América · África · Ásia · Europa",
 
@@ -194,7 +194,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "Obrigado! Recebemos sua mensagem.",
     "contact.direct": "Contato direto",
 
-    "footer.tagline": "Transformamos produtos em negócios globais.",
+    "footer.tagline": "Seu braço comercial internacional. Transformamos produtos em negócios internacionais.",
     "footer.rights": "Todos os direitos reservados.",
   },
 };

@@ -8,7 +8,7 @@ export const Route = createFileRoute("/about")({
       { title: "Nosotros | GFZ-U-Connect" },
       { name: "description", content: "Firma especializada en desarrollo de negocios internacionales y trayectoria comercial." },
       { property: "og:title", content: "About | GFZ-U-Connect" },
-      { property: "og:description", content: "Strategic bridge between companies and global markets." },
+      { property: "og:description", content: "Your international commercial arm: the strategic bridge between companies and new markets." },
     ],
   }),
   component: AboutPage,
