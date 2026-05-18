@@ -8,7 +8,7 @@ const dictionaries: Record<Lang, Dict> = {
   es: {
     "nav.about": "Nosotros",
     "nav.services": "Servicios",
-    "nav.coverage": "Cobertura",
+    "nav.coverage": "Experiencia comercial",
     "nav.results": "Resultados",
     "nav.contact": "Contacto",
     "nav.cta": "Solicitar información",
@@ -42,7 +42,7 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Vinculación con embajadas y entidades gubernamentales", "s7.d": "Activamos relaciones estratégicas con autoridades regulatorias y diplomáticas.",
     "s8.t": "Representación en Expos y Cumbres internacionales", "s8.d": "Posicionamos tu marca en los foros más relevantes de la industria.",
 
-    "coverage.eyebrow": "Cobertura internacional",
+    "coverage.eyebrow": "Experiencia comercial",
     "coverage.title": "Experiencia comercial activa en 4 continentes",
     "coverage.subtitle": "América · África · Asia · Europa",
 
@@ -72,7 +72,7 @@ const dictionaries: Record<Lang, Dict> = {
   en: {
     "nav.about": "About",
     "nav.services": "Services",
-    "nav.coverage": "Coverage",
+    "nav.coverage": "Commercial Experience",
     "nav.results": "Results",
     "nav.contact": "Contact",
     "nav.cta": "Request information",
@@ -106,7 +106,7 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Engagement with embassies & government", "s7.d": "We activate strategic relationships with regulatory and diplomatic authorities.",
     "s8.t": "Representation at Expos & Summits", "s8.d": "We position your brand at the most relevant industry forums.",
 
-    "coverage.eyebrow": "International coverage",
+    "coverage.eyebrow": "Commercial experience",
     "coverage.title": "Active commercial experience across 4 continents",
     "coverage.subtitle": "America · Africa · Asia · Europe",
 
@@ -136,7 +136,7 @@ const dictionaries: Record<Lang, Dict> = {
   pt: {
     "nav.about": "Sobre nós",
     "nav.services": "Serviços",
-    "nav.coverage": "Cobertura",
+    "nav.coverage": "Experiência comercial",
     "nav.results": "Resultados",
     "nav.contact": "Contato",
     "nav.cta": "Solicitar informações",
@@ -170,7 +170,7 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Vinculação com embaixadas e órgãos governamentais", "s7.d": "Ativamos relações estratégicas com autoridades regulatórias e diplomáticas.",
     "s8.t": "Representação em Expos e Cúpulas", "s8.d": "Posicionamos sua marca nos fóruns mais relevantes do setor.",
 
-    "coverage.eyebrow": "Cobertura internacional",
+    "coverage.eyebrow": "Experiência comercial",
     "coverage.title": "Experiência comercial ativa em 4 continentes",
     "coverage.subtitle": "América · África · Ásia · Europa",
 

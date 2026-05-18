@@ -13,7 +13,6 @@ export function Header() {
     { to: "/about", label: t("nav.about") },
     { to: "/services", label: t("nav.services") },
     { to: "/coverage", label: t("nav.coverage") },
-    { to: "/results", label: t("nav.results") },
     { to: "/contact", label: t("nav.contact") },
   ] as const;
 
