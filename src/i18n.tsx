@@ -106,7 +106,7 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Engagement with embassies & government", "s7.d": "We activate strategic relationships with regulatory and diplomatic authorities.",
     "s8.t": "Representation at Expos & Summits", "s8.d": "We position your brand at the most relevant industry forums.",
 
-    "coverage.eyebrow": "Global coverage",
+    "coverage.eyebrow": "International coverage",
     "coverage.title": "Active commercial experience across 4 continents",
     "coverage.subtitle": "America · Africa · Asia · Europe",
 
