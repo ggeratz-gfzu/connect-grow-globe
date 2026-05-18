@@ -23,10 +23,10 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.stat3": "10+ países", "hero.stat3d": "con operaciones comerciales comprobadas",
 
     "about.eyebrow": "Quiénes somos",
-    "about.title": "El puente estratégico entre tu producto y los mercados globales.",
-    "about.p1": "GFZ-U-Connect S.C. es una firma especializada en desarrollo de negocios internacionales y trayectoria comercial. Acompañamos a empresas que buscan expandir su alcance hacia nuevos mercados y canales de venta.",
-    "about.p2": "Diseñamos estrategias de entrada a mercado, desarrollamos ecosistemas de distribución de alto impacto y aceleramos la expansión de productos a través de distintos continentes.",
-    "about.b1": "Estrategia con visión global",
+    "about.title": "Tu brazo comercial internacional: el puente estratégico entre tu producto y nuevos mercados.",
+    "about.p1": "GFZ-U-Connect S.C. es el brazo comercial internacional de las empresas que quieren crecer. Funcionamos como una extensión de tu equipo de ventas: abrimos mercados, generamos demanda, construimos relaciones con distribuidores y cerramos acuerdos en tu nombre.",
+    "about.p2": "Diseñamos estrategias de entrada a mercado, desarrollamos ecosistemas de distribución de alto impacto y aceleramos la expansión de tus productos a través de distintos continentes — sin que tengas que montar una operación internacional desde cero.",
+    "about.b1": "Estrategia con visión internacional",
     "about.b2": "Ejecución comercial comprobada",
     "about.b3": "Red estratégica internacional",
 
