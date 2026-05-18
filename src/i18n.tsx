@@ -142,7 +142,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Solicitar informações",
 
     "hero.eyebrow": "Desenvolvimento de Negócios Internacionais",
-    "hero.title": "Transformamos produtos em negócios globais.",
+    "hero.title": "Transformamos produtos em negócios internacionais.",
     "hero.subtitle": "Mais de 20 anos de experiência e trajetória comercial comprovada no México e em mercados internacionais. Desenhamos estratégias de entrada, ecossistemas de distribuição e escalamos produtos em mercados de alto crescimento.",
     "hero.cta1": "Agendar consultoria",
     "hero.cta2": "Conhecer nossos serviços",
