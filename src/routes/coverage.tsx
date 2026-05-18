@@ -17,9 +17,9 @@ const countries = [
 export const Route = createFileRoute("/coverage")({
   head: () => ({
     meta: [
-      { title: "Cobertura global | GFZ-U-Connect" },
+      { title: "Cobertura internacional | GFZ-U-Connect" },
       { name: "description", content: "Experiencia comercial activa en 4 continentes: América, África, Asia y Europa." },
-      { property: "og:title", content: "Global Coverage | GFZ-U-Connect" },
+      { property: "og:title", content: "International Coverage | GFZ-U-Connect" },
       { property: "og:description", content: "Active commercial experience across 4 continents." },
     ],
   }),
