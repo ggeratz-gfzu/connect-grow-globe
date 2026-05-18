@@ -130,7 +130,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "Thank you! We've received your message.",
     "contact.direct": "Direct contact",
 
-    "footer.tagline": "We turn products into global businesses.",
+    "footer.tagline": "Your international commercial arm. We turn products into international businesses.",
     "footer.rights": "All rights reserved.",
   },
   pt: {
