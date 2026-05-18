@@ -66,7 +66,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "¡Gracias! Hemos recibido tu mensaje.",
     "contact.direct": "Contacto directo",
 
-    "footer.tagline": "Convertimos productos en negocios globales.",
+    "footer.tagline": "Tu brazo comercial internacional. Convertimos productos en negocios internacionales.",
     "footer.rights": "Todos los derechos reservados.",
   },
   en: {
