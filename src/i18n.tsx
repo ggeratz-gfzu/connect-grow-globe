@@ -87,10 +87,10 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.stat3": "10+ countries", "hero.stat3d": "of proven operation",
 
     "about.eyebrow": "Who we are",
-    "about.title": "The strategic bridge between your product and global markets.",
-    "about.p1": "GFZ-U-Connect S.C. is a firm specialized in international business development and commercial execution. We support companies seeking to expand into new markets and sales channels.",
-    "about.p2": "We design market entry strategies, build high-impact distribution ecosystems and accelerate product expansion across continents.",
-    "about.b1": "Strategy with a global vision",
+    "about.title": "Your international commercial arm: the strategic bridge between your product and new markets.",
+    "about.p1": "GFZ-U-Connect S.C. is the international commercial arm for companies that want to grow. We work as an extension of your sales team: opening markets, generating demand, building distributor relationships and closing deals on your behalf.",
+    "about.p2": "We design market entry strategies, build high-impact distribution ecosystems and accelerate product expansion across continents — without you having to stand up an international operation from scratch.",
+    "about.b1": "Strategy with an international vision",
     "about.b2": "Proven commercial execution",
     "about.b3": "International strategic network",
 
