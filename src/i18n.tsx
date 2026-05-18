@@ -194,7 +194,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "Obrigado! Recebemos sua mensagem.",
     "contact.direct": "Contato direto",
 
-    "footer.tagline": "Transformamos produtos em negócios globais.",
+    "footer.tagline": "Seu braço comercial internacional. Transformamos produtos em negócios internacionais.",
     "footer.rights": "Todos os direitos reservados.",
   },
 };
