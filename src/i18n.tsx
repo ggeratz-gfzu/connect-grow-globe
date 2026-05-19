@@ -170,8 +170,8 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Vinculação com embaixadas e órgãos governamentais", "s7.d": "Ativamos relações estratégicas com autoridades regulatórias e diplomáticas.",
     "s8.t": "Representação em Expos e Cúpulas", "s8.d": "Posicionamos sua marca nos fóruns mais relevantes do setor.",
 
-    "coverage.eyebrow": "Experiência comercial",
-    "coverage.title": "Experiência comercial ativa em 4 continentes",
+    "coverage.eyebrow": "Trajetória multicultural",
+    "coverage.title": "Trajetória multicultural ativa em 4 continentes",
     "coverage.subtitle": "América · África · Ásia · Europa",
 
     "results.eyebrow": "Resultados",
