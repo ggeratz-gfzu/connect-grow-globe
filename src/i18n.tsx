@@ -136,7 +136,7 @@ const dictionaries: Record<Lang, Dict> = {
   pt: {
     "nav.about": "Sobre nós",
     "nav.services": "Serviços",
-    "nav.coverage": "Trajetória multicultural",
+    "nav.coverage": "Experiência multicultural",
     "nav.results": "Resultados",
     "nav.contact": "Contato",
     "nav.cta": "Solicitar informações",
