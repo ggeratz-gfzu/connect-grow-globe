@@ -106,8 +106,8 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Engagement with embassies & government", "s7.d": "We activate strategic relationships with regulatory and diplomatic authorities.",
     "s8.t": "Representation at Expos & Summits", "s8.d": "We position your brand at the most relevant industry forums.",
 
-    "coverage.eyebrow": "Multicultural track record",
-    "coverage.title": "Active multicultural track record across 4 continents",
+    "coverage.eyebrow": "Multicultural experience",
+    "coverage.title": "Active multicultural experience across 4 continents",
     "coverage.subtitle": "America · Africa · Asia · Europe",
 
     "results.eyebrow": "Results",
