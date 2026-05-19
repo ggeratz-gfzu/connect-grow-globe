@@ -72,7 +72,7 @@ const dictionaries: Record<Lang, Dict> = {
   en: {
     "nav.about": "About",
     "nav.services": "Services",
-    "nav.coverage": "Multicultural Track Record",
+    "nav.coverage": "Multicultural Experience",
     "nav.results": "Results",
     "nav.contact": "Contact",
     "nav.cta": "Request information",
