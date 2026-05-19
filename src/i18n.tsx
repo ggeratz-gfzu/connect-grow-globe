@@ -8,7 +8,7 @@ const dictionaries: Record<Lang, Dict> = {
   es: {
     "nav.about": "Nosotros",
     "nav.services": "Servicios",
-    "nav.coverage": "Trayectoria multicultural",
+    "nav.coverage": "Experiencia multicultural",
     "nav.results": "Resultados",
     "nav.contact": "Contacto",
     "nav.cta": "Solicitar información",
