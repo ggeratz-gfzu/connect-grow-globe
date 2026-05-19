@@ -8,7 +8,7 @@ const dictionaries: Record<Lang, Dict> = {
   es: {
     "nav.about": "Nosotros",
     "nav.services": "Servicios",
-    "nav.coverage": "Trayectoria multicultural",
+    "nav.coverage": "Experiencia multicultural",
     "nav.results": "Resultados",
     "nav.contact": "Contacto",
     "nav.cta": "Solicitar información",
@@ -42,8 +42,8 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Vinculación con embajadas y entidades gubernamentales", "s7.d": "Activamos relaciones estratégicas con autoridades regulatorias y diplomáticas.",
     "s8.t": "Representación en Expos y Cumbres internacionales", "s8.d": "Posicionamos tu marca en los foros más relevantes de la industria.",
 
-    "coverage.eyebrow": "Trayectoria multicultural",
-    "coverage.title": "Trayectoria multicultural activa en 4 continentes",
+    "coverage.eyebrow": "Experiencia multicultural",
+    "coverage.title": "Experiencia multicultural activa en 4 continentes",
     "coverage.subtitle": "América · África · Asia · Europa",
 
     "results.eyebrow": "Resultados",
@@ -72,7 +72,7 @@ const dictionaries: Record<Lang, Dict> = {
   en: {
     "nav.about": "About",
     "nav.services": "Services",
-    "nav.coverage": "Multicultural Track Record",
+    "nav.coverage": "Multicultural Experience",
     "nav.results": "Results",
     "nav.contact": "Contact",
     "nav.cta": "Request information",
@@ -106,8 +106,8 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Engagement with embassies & government", "s7.d": "We activate strategic relationships with regulatory and diplomatic authorities.",
     "s8.t": "Representation at Expos & Summits", "s8.d": "We position your brand at the most relevant industry forums.",
 
-    "coverage.eyebrow": "Multicultural track record",
-    "coverage.title": "Active multicultural track record across 4 continents",
+    "coverage.eyebrow": "Multicultural experience",
+    "coverage.title": "Active multicultural experience across 4 continents",
     "coverage.subtitle": "America · Africa · Asia · Europe",
 
     "results.eyebrow": "Results",
@@ -136,7 +136,7 @@ const dictionaries: Record<Lang, Dict> = {
   pt: {
     "nav.about": "Sobre nós",
     "nav.services": "Serviços",
-    "nav.coverage": "Trajetória multicultural",
+    "nav.coverage": "Experiência multicultural",
     "nav.results": "Resultados",
     "nav.contact": "Contato",
     "nav.cta": "Solicitar informações",
@@ -170,8 +170,8 @@ const dictionaries: Record<Lang, Dict> = {
     "s7.t": "Vinculação com embaixadas e órgãos governamentais", "s7.d": "Ativamos relações estratégicas com autoridades regulatórias e diplomáticas.",
     "s8.t": "Representação em Expos e Cúpulas", "s8.d": "Posicionamos sua marca nos fóruns mais relevantes do setor.",
 
-    "coverage.eyebrow": "Trajetória multicultural",
-    "coverage.title": "Trajetória multicultural ativa em 4 continentes",
+    "coverage.eyebrow": "Experiência multicultural",
+    "coverage.title": "Experiência multicultural ativa em 4 continentes",
     "coverage.subtitle": "América · África · Ásia · Europa",
 
     "results.eyebrow": "Resultados",
