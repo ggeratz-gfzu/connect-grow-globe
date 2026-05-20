@@ -7,10 +7,10 @@ import { Button } from "@/components/ui/button";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "GFZ-U-Connect | Tu brazo comercial internacional" },
-      { name: "description", content: "Brazo comercial internacional para empresas: +20 años abriendo mercados, distribución y trayectoria comercial en México y mercados internacionales." },
+      { title: "GFZ-U-Connect | Tu socio estratégico de expansión comercial internacional" },
+      { name: "description", content: "Socio estratégico de expansión comercial internacional para empresas: +20 años abriendo mercados, distribución y trayectoria comercial en México y mercados internacionales." },
       { property: "og:title", content: "GFZ-U-Connect | International Business Development" },
-      { property: "og:description", content: "Your international commercial arm. We turn products into international businesses." },
+      { property: "og:description", content: "Your strategic partner for international commercial expansion. We turn products into international businesses." },
     ],
   }),
   component: Home,

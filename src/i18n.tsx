@@ -14,7 +14,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Solicitar información",
 
     "hero.eyebrow": "Desarrollo de Negocios Internacionales",
-    "hero.title": "Tu brazo comercial para escalar productos hacia negocios internacionales de alto impacto.",
+    "hero.title": "Tu socio estratégico de expansión comercial para escalar productos hacia negocios internacionales.",
     "hero.subtitle": "Más de 20 años diseñando estrategias de entrada, articulando ecosistemas de distribución y cerrando acuerdos comerciales en mercados de alto crecimiento. Convertimos productos competitivos en operaciones internacionales rentables y sostenibles.",
     "hero.cta1": "Agenda una consultoría estratégica",
     "hero.cta2": "Conoce nuestros servicios",
@@ -23,9 +23,9 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.stat3": "10+ países", "hero.stat3d": "con presencia comercial activa",
 
     "about.eyebrow": "Quiénes somos",
-    "about.title": "Tu brazo comercial internacional: el puente estratégico entre tu producto y los mercados que importan.",
-    "about.p1": "GFZ-U-Connect S.C. opera como el brazo comercial internacional de empresas con visión de crecimiento. Actuamos como una extensión integral de tu equipo de ventas: abrimos mercados, generamos demanda calificada, construimos relaciones con distribuidores estratégicos y cerramos acuerdos en tu nombre.",
-    "about.p2": "Diseñamos estrategias de entrada a mercado, articulamos ecosistemas de distribución de alto impacto y aceleramos la expansión internacional de tus productos a través de distintos continentes — sin que tengas que asumir la complejidad ni el costo de montar una operación internacional desde cero.",
+    "about.title": "Tu socio estratégico de expansión comercial internacional: el puente estratégico entre tu producto y los mercados que importan.",
+    "about.p1": "GFZ-U-Connect S.C. opera como el socio estratégico de expansión comercial internacional de empresas con visión de crecimiento. Actuamos como una extensión integral de tu equipo de ventas: abrimos mercados, generamos demanda calificada, construimos relaciones con distribuidores estratégicos y cerramos acuerdos en tu nombre.",
+    "about.p2": "Diseñamos estrategias de entrada a mercado, articulamos ecosistemas de distribución y aceleramos la expansión internacional de tus productos a través de distintos continentes — sin que tengas que asumir la complejidad ni el costo de montar una operación internacional desde cero.",
     "about.b1": "Visión estratégica internacional",
     "about.b2": "Ejecución comercial comprobada",
     "about.b3": "Red de contactos de alto nivel",
@@ -66,7 +66,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "¡Gracias! Hemos recibido tu mensaje y te contactaremos a la brevedad.",
     "contact.direct": "Contacto directo",
 
-    "footer.tagline": "Tu brazo comercial internacional. Convertimos productos competitivos en negocios internacionales rentables.",
+    "footer.tagline": "Tu socio estratégico de expansión comercial internacional. Convertimos productos competitivos en negocios internacionales rentables.",
     "footer.rights": "Todos los derechos reservados.",
   },
   en: {
@@ -78,7 +78,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Request information",
 
     "hero.eyebrow": "International Business Development",
-    "hero.title": "Your commercial arm to scale products into high-impact international businesses.",
+    "hero.title": "Your strategic partner for commercial expansion to scale products into international businesses.",
     "hero.subtitle": "Over 20 years architecting market entry strategies, orchestrating distribution ecosystems, and closing commercial agreements in high-growth markets. We turn competitive products into profitable, sustainable international operations.",
     "hero.cta1": "Book a strategic consultation",
     "hero.cta2": "Explore our services",
@@ -87,9 +87,9 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.stat3": "10+ countries", "hero.stat3d": "with active commercial presence",
 
     "about.eyebrow": "Who we are",
-    "about.title": "Your international commercial arm: the strategic bridge between your product and the markets that matter.",
-    "about.p1": "GFZ-U-Connect S.C. operates as the international commercial arm for growth-driven companies. We act as a full extension of your sales team: opening markets, generating qualified demand, building strategic distributor relationships, and closing deals on your behalf.",
-    "about.p2": "We design market entry strategies, orchestrate high-impact distribution ecosystems, and accelerate international expansion across continents — without you having to absorb the complexity or cost of standing up an international operation from scratch.",
+    "about.title": "Your strategic partner for international commercial expansion: the strategic bridge between your product and the markets that matter.",
+    "about.p1": "GFZ-U-Connect S.C. operates as the strategic partner for international commercial expansion for growth-driven companies. We act as a full extension of your sales team: opening markets, generating qualified demand, building strategic distributor relationships, and closing deals on your behalf.",
+    "about.p2": "We design market entry strategies, orchestrate distribution ecosystems, and accelerate international expansion across continents — without you having to absorb the complexity or cost of standing up an international operation from scratch.",
     "about.b1": "Strategic international vision",
     "about.b2": "Proven commercial execution",
     "about.b3": "High-level network of contacts",
@@ -130,7 +130,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "Thank you! We've received your message and will be in touch shortly.",
     "contact.direct": "Direct contact",
 
-    "footer.tagline": "Your international commercial arm. We turn competitive products into profitable international businesses.",
+    "footer.tagline": "Your strategic partner for international commercial expansion. We turn competitive products into profitable international businesses.",
     "footer.rights": "All rights reserved.",
   },
   pt: {
@@ -142,7 +142,7 @@ const dictionaries: Record<Lang, Dict> = {
     "nav.cta": "Solicitar informações",
 
     "hero.eyebrow": "Desenvolvimento de Negócios Internacionais",
-    "hero.title": "Seu braço comercial para escalar produtos a negócios internacionais de alto impacto.",
+    "hero.title": "Seu sócio estratégico de expansão comercial para escalar produtos a negócios internacionais.",
     "hero.subtitle": "Mais de 20 anos desenhando estratégias de entrada, articulando ecossistemas de distribuição e fechando acordos comerciais em mercados de alto crescimento. Transformamos produtos competitivos em operações internacionais rentáveis e sustentáveis.",
     "hero.cta1": "Agendar consultoria estratégica",
     "hero.cta2": "Conhecer nossos serviços",
@@ -151,9 +151,9 @@ const dictionaries: Record<Lang, Dict> = {
     "hero.stat3": "10+ países", "hero.stat3d": "com presença comercial ativa",
 
     "about.eyebrow": "Quem somos",
-    "about.title": "Seu braço comercial internacional: a ponte estratégica entre o seu produto e os mercados que importam.",
-    "about.p1": "A GFZ-U-Connect S.C. opera como o braço comercial internacional de empresas com visão de crescimento. Atuamos como uma extensão integral da sua equipe de vendas: abrimos mercados, geramos demanda qualificada, construímos relações com distribuidores estratégicos e fechamos acordos em seu nome.",
-    "about.p2": "Desenhamos estratégias de entrada de mercado, articulamos ecossistemas de distribuição de alto impacto e aceleramos a expansão internacional dos seus produtos por diversos continentes — sem que você precise assumir a complexidade nem o custo de montar uma operação internacional do zero.",
+    "about.title": "Seu sócio estratégico de expansão comercial internacional: a ponte estratégica entre o seu produto e os mercados que importam.",
+    "about.p1": "A GFZ-U-Connect S.C. opera como o sócio estratégico de expansão comercial internacional de empresas com visão de crescimento. Atuamos como uma extensão integral da sua equipe de vendas: abrimos mercados, geramos demanda qualificada, construímos relações com distribuidores estratégicos e fechamos acordos em seu nome.",
+    "about.p2": "Desenhamos estratégias de entrada de mercado, articulamos ecossistemas de distribuição e aceleramos a expansão internacional dos seus produtos por diversos continentes — sem que você precise assumir a complexidade nem o custo de montar uma operação internacional do zero.",
     "about.b1": "Visão estratégica internacional",
     "about.b2": "Execução comercial comprovada",
     "about.b3": "Rede de contatos de alto nível",
@@ -194,7 +194,7 @@ const dictionaries: Record<Lang, Dict> = {
     "contact.sent": "Obrigado! Recebemos sua mensagem e entraremos em contato em breve.",
     "contact.direct": "Contato direto",
 
-    "footer.tagline": "Seu braço comercial internacional. Transformamos produtos competitivos em negócios internacionais rentáveis.",
+    "footer.tagline": "Seu sócio estratégico de expansão comercial internacional. Transformamos produtos competitivos em negócios internacionais rentáveis.",
     "footer.rights": "Todos os direitos reservados.",
   },
 };
